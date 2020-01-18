@@ -13,6 +13,7 @@
 		E4B601EF23D36E1500E00ED9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E4B601ED23D36E1500E00ED9 /* Main.storyboard */; };
 		E4B601F123D36E1600E00ED9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E4B601F023D36E1600E00ED9 /* Assets.xcassets */; };
 		E4B601F423D36E1600E00ED9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E4B601F223D36E1600E00ED9 /* LaunchScreen.storyboard */; };
+		E4B601FC23D3741C00E00ED9 /* CurrencyTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4B601FB23D3741C00E00ED9 /* CurrencyTextField.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		E4B601F023D36E1600E00ED9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E4B601F323D36E1600E00ED9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E4B601F523D36E1600E00ED9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E4B601FB23D3741C00E00ED9 /* CurrencyTextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CurrencyTextField.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				E4B601F023D36E1600E00ED9 /* Assets.xcassets */,
 				E4B601F223D36E1600E00ED9 /* LaunchScreen.storyboard */,
 				E4B601F523D36E1600E00ED9 /* Info.plist */,
+				E4B601FB23D3741C00E00ED9 /* CurrencyTextField.swift */,
 			);
 			path = Cursor;
 			sourceTree = "<group>";
@@ -140,6 +143,7 @@
 			files = (
 				E4B601EC23D36E1500E00ED9 /* ViewController.swift in Sources */,
 				E4B601E823D36E1500E00ED9 /* AppDelegate.swift in Sources */,
+				E4B601FC23D3741C00E00ED9 /* CurrencyTextField.swift in Sources */,
 				E4B601EA23D36E1500E00ED9 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
